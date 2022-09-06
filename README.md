@@ -27,15 +27,13 @@ this corpus in your work.
 ### Bibtex
 
 ```
-@article{narrativeqa,
-author = {Tom\'a\v s Ko\v cisk\'y and Jonathan Schwarz and Phil Blunsom and
-          Chris Dyer and Karl Moritz Hermann and G\'abor Melis and
-          Edward Grefenstette},
+@article{Data-Variations,
+author = {Suhas Sangangire},
 title = {The {NarrativeQA} Reading Comprehension Challenge},
 journal = {Transactions of the Association for Computational Linguistics},
 url = {https://TBD},
 volume = {TBD},
-year = {2018},
+year = {2020},
 pages = {TBD},
 }
 ```
